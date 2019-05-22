@@ -103,7 +103,7 @@ BOOL_PROP property = true
 * [Eclipse MicroProfile Config][microprofile-config]
 
 
-[wildfly]: https://wildlfy.org/
+[wildfly]: https://wildfly.org/
 [thorntail]: http://wildfly-swarm.io/
 [microprofile-config]: https://github.com/eclipse/microprofile-config/
 [smallrye-config]: https://github.com/smallrye/smallrye-config 
